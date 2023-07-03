@@ -15,7 +15,7 @@ SHA-256 provides the following functionality:
 
 <div align="center">
 
-[![SHA-256](https://www.linkpicture.com/q/1_47.webp)
+![SHA-256](https://www.linkpicture.com/q/1_47.webp)
 
 </div>
 
